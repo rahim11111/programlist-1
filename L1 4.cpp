@@ -1,5 +1,7 @@
-#include<iostrem>
-using namespace
+#include<iostream>
+using namespace std;
+int main()
 {
-	int a
+	cout<<"My Name Is Rahim Sora";
+	return 0;
 }
